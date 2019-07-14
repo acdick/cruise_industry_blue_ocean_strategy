@@ -225,9 +225,9 @@ The critical elements of this strategic framework are presented in:
      * The investment cycle, interlinking low fares, high onboard sales and high net income
      
    *Market Research*
-     <p align="center">
-       <img src="/img/18_Initial_Coding_Industry_Experts.png" width="600" title="Initial Coding Industry Experts">
-     </p>
+       <p align="center">
+         <img src="/img/18_Initial_Coding_Industry_Experts.png" width="600" title="Initial Coding Industry Experts">
+       </p>
    * The impactful factors of the cruise industry are:
      * Excess passenger demand and undersupply of cruise ships
      * Access to low-cost international labor markets
