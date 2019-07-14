@@ -103,7 +103,7 @@ A description of the cruise industry is presented with three layered perspective
    </p>
 
 ## Scenario Planning
-MACRO-TRENDS | DRIVING FORCES | IMPACT AND UNCERTAINTY MATRIX | SCENARIO MATRIX | MORPHOLOGICAL ANALYSIS
+MACRO-TRENDS | IMPACT AND UNCERTAINTY MATRIX | SCENARIO FRAMEWORK | MORPHOLOGICAL ANALYSIS
 
 Future scenarios for the cruise industry were designed through:
 - [x] Identification of critical uncertainties
@@ -139,29 +139,28 @@ Future scenarios for the cruise industry were designed through:
 
 3. **Scenario Stories**<br>
    Each scenario story is composed of:
-   1. A narrative that describes the state of the most active contextual and transactional trends
-   2. Implications to the current business model of mass market cruise lines
-   3. Early warning signals, which can be monitored to alert its onset
-
-   **Scenario Vector: Out Tonight**<br>
-   <p align="center">
-     <img src="/img/06_Scenario_Vector_01_Out_Tonight.png" width="600" title="Scenario Vector 01 Out Tonight">
-   </p>
+   * A narrative that describes the state of the most active contextual and transactional trends
+   * Implications to the current business model of mass market cruise lines
+   * Early warning signals, which can be monitored to alert its onset
+     * **Out Tonight**
+     <p align="center">
+       <img src="/img/06_Scenario_Vector_01_Out_Tonight.png" width="600" title="Scenario Vector 01 Out Tonight">
+     </p>
    
-   **Scenario Vector: What You Own**<br>
-   <p align="center">
-     <img src="/img/07_Scenario_Vector_02_What_You_Own.png" width="600" title="Scenario Vector 02 What You Own">
-   </p>
+     * **What You Own**
+     <p align="center">
+       <img src="/img/07_Scenario_Vector_02_What_You_Own.png" width="600" title="Scenario Vector 02 What You Own">
+     </p>
    
-   **Scenario Vector: Rent**<br>
-   <p align="center">
-     <img src="/img/08_Scenario_Vector_03_Rent.png" width="600" title="Scenario Vector 03 Rent">
-   </p>
+     * **Rent**
+     <p align="center">
+       <img src="/img/08_Scenario_Vector_03_Rent.png" width="600" title="Scenario Vector 03 Rent">
+     </p>
    
-   **Scenario Vector: On the Street**<br>
-   <p align="center">
-     <img src="/img/09_Scenario_Vector_04_On_the_Street.png" width="600" title="Scenario Vector 04 On the Street">
-   </p>
+     * **On the Street**
+     <p align="center">
+       <img src="/img/09_Scenario_Vector_04_On_the_Street.png" width="600" title="Scenario Vector 04 On the Street">
+     </p>
 
 ## Option Planning
 BLUE OCEAN STRATEGY | VALUE INNOVATION | FOUR ACTIONS FRAMEWORK | STRATEGY CANVAS | PORTFOLIO REVIEW
@@ -182,24 +181,23 @@ Strategic options for the cruise industry were formulated by:
 
 2. **Option Set**<br>
    Business model innovation can be driven from three perspectives, namely:
-   * Exploration by customer impact
-   * Exploration by value proposition impact
-   * Exploration by cost impact
-
-   **Four Actions Framework: Hub and Spoke Eco-Tourism**<br>
-   <p align="center">
-     <img src="/img/10_Four_Actions_Framework_01_Hub_and_Spoke_Eco_Tourism.png" width="600" title="Four Actions Framework 01 Hub and Spoke Eco-Tourism">
-   </p>
+   * Exploration by customer impact:
+     * **Hub and Spoke Eco-Tourism**
+     <p align="center">
+       <img src="/img/10_Four_Actions_Framework_01_Hub_and_Spoke_Eco_Tourism.png" width="600" title="Four Actions Framework 01 Hub and Spoke Eco-Tourism">
+     </p>
    
-   **Four Actions Framework: Community Mega-Events**<br>
-   <p align="center">
-     <img src="/img/11_Four_Actions_Framework_02_Community_Mega_Events.png" width="600" title="Four Actions Framework 02 Community Mega-Events">
-   </p>
+   * Exploration by value proposition impact:
+     * **Community Mega-Events**
+     <p align="center">
+       <img src="/img/11_Four_Actions_Framework_02_Community_Mega_Events.png" width="600" title="Four Actions Framework 02 Community Mega-Events">
+     </p>
    
-   **Four Actions Framework: Maritime Digital Nomads**<br>
-   <p align="center">
-     <img src="/img/12_Four_Actions_Framework_03_Maritime_Digital_Nomads.png" width="600" title="Four Actions Framework 03 Maritime Digital Nomads">
-   </p>
+   * Exploration by cost impact:
+     * **Maritime Digital Nomads**
+     <p align="center">
+       <img src="/img/12_Four_Actions_Framework_03_Maritime_Digital_Nomads.png" width="600" title="Four Actions Framework 03 Maritime Digital Nomads">
+     </p>
 
 3. **Option Evaluation**<br>
    Considering scarcity of resources, each option is evaluated against:
@@ -220,90 +218,103 @@ The critical elements of this strategic framework are presented in:
 - [x] Research limitations and opportunities for future work
 
 1. **Key Findings**<br>
-   1. The current business model of mass market cruise lines is governed by three virtuous cycles, which are:
-      * The growth cycle, connecting new ships, high passenger volume and high ship utilization
-      * The subsidy cycle, driving low fares, high onboard sales and high ticket subsidies
-      * The investment cycle, interlinking low fares, high onboard sales and high net income
-   2. The impactful factors of the cruise industry are:
-      * Cxcess passenger demand and undersupply of cruise ships
-      * Access to low-cost international labor markets
-      * Scarcity of experienced cruise designers and shipbuilders
-      * High waterfront utilization and operational bottlenecks
-   3. The financial goals of cruise lines are:
-      * Optimization of operational cost structures to increase revenue yield
-      * Reduction of variable costs via investments in long-term revenue-generating fixed cost assets
-      * Reliance on local communities to redevelop dilapidated waterfront infrastructure
-   4. The consumer value proposition of cruise lines offers all-inclusive experiences, however, there are opportunities to:
-      * Specialize in curated travel
-      * Connect with nature through small boats
-   5. The internal processes of cruise lines rely on:
-      * High-quality human capital, including service, maritime and design staff
-      * Attention to marine logistics, guided by a crew safety culture
-   6. Learning and growth of cruise lines can be facilitated through:
-      * Fragmentation of consumer demand
-      * Technological innovation driven by high-speed boat designs
-      * Personalization of passenger experiences with the local knowledge of professional maritime crews
-   7. Consumer personas go on cruises:
-      * With a spouse or partner (24%), friends or acquaintances (18%) or parents or grandparents (14%)
-      <p align="center">
-        <img src="/img/21_Consumer_Survey_02_Consumer_Demographics.png" width="600" title="Consumer Survey 02 Consumer Demographics">
-      </p>
-      
-      * When they seek to relax in a comfortable environment (24%), discover or try something new (21%) or celebrate with a large group (17%)
-      <p align="center">
-        <img src="/img/22_Consumer_Survey_03_Cruise_Tourism_Persona.png" width="600" title="Consumer Survey 03 Cruise Tourism Persona">
-      </p>
-      
-   8. Consumer satisfaction and cruise adoption is:
-      * Driven by attraction to unique itineraries (19%), immersive experiences (18%) and social events (18%)
-      <p align="center">
-        <img src="/img/23_Consumer_Survey_04_Consumer_Adoption.png" width="600" title="Consumer Survey 04 Consumer Adoption">
-      </p>
-      
-      * Inhibited by resistance to limited experiences (14%), boredom and idleness (14%) and undesirable destinations (14%)
-      <p align="center">
-        <img src="/img/24_Consumer_Survey_05_Consumer_Resistance.png" width="600" title="Consumer Survey 05 Consumer Resistance">
-      </p>
+   **Business Modeling**
+   * The current business model of mass market cruise lines is governed by three virtuous cycles, which are:
+     * The growth cycle, connecting new ships, high passenger volume and high ship utilization
+     * The subsidy cycle, driving low fares, high onboard sales and high ticket subsidies
+     * The investment cycle, interlinking low fares, high onboard sales and high net income
+     
+   **Market Research**
+   <p align="center">
+     <img src="/img/18_Initial_Coding_Industry_Experts.png" width="600" title="Initial Coding Industry Experts">
+   </p>
+   * The impactful factors of the cruise industry are:
+     * Excess passenger demand and undersupply of cruise ships
+     * Access to low-cost international labor markets
+     * Scarcity of experienced cruise designers and shipbuilders
+     * High waterfront utilization and operational bottlenecks
+   * The financial goals of cruise lines are:
+     * Optimization of operational cost structures to increase revenue yield
+     * Reduction of variable costs via investments in long-term revenue-generating fixed cost assets
+     * Reliance on local communities to redevelop dilapidated waterfront infrastructure
+   * The consumer value proposition of cruise lines offers all-inclusive experiences, however, there are opportunities to:
+     * Specialize in curated travel
+     * Connect with nature through small boats
+   * The internal processes of cruise lines rely on:
+     * High-quality human capital, including service, maritime and design staff
+     * Attention to marine logistics, guided by a crew safety culture
+   * Learning and growth of cruise lines can be facilitated through:
+     * Fragmentation of consumer demand
+     * Technological innovation driven by high-speed boat designs
+     * Personalization of passenger experiences with the local knowledge of professional maritime crews
+   * Consumer personas go on cruises:
+     * With a spouse or partner (24%), friends or acquaintances (18%) or parents or grandparents (14%)
+     <p align="center">
+       <img src="/img/21_Consumer_Survey_02_Consumer_Demographics.png" width="600" title="Consumer Survey 02 Consumer Demographics">
+     </p>
+     
+     * When they seek to relax in a comfortable environment (24%), discover or try something new (21%) or celebrate with a large group (17%)
+     <p align="center">
+       <img src="/img/22_Consumer_Survey_03_Cruise_Tourism_Persona.png" width="600" title="Consumer Survey 03 Cruise Tourism Persona">
+     </p>
+     
+   * Consumer satisfaction and cruise adoption is:
+     * Driven by attraction to unique itineraries (19%), immersive experiences (18%) and social events (18%)
+     <p align="center">
+       <img src="/img/23_Consumer_Survey_04_Consumer_Adoption.png" width="600" title="Consumer Survey 04 Consumer Adoption">
+     </p>
+     
+     * Inhibited by resistance to limited experiences (14%), boredom and idleness (14%) and undesirable destinations (14%)
+     <p align="center">
+       <img src="/img/24_Consumer_Survey_05_Consumer_Resistance.png" width="600" title="Consumer Survey 05 Consumer Resistance">
+     </p>
+   
+   * Value innovation across the cruise industry can be achieved by:
+     <p align="center">
+       <img src="/img/19_Initial_Coding_Consumers.png" width="600" title="Initial Coding Consumers">
+     </p>
+   
+     * Eliminating a feeling of idleness, monotony or repetitiveness (42%) as well as artificial atmospheres or inauthentic excursions (30%)
+     <p align="center">
+       <img src="/img/25_Consumer_Survey_06_Value_Innovation_Eliminate.png" width="600" title="Consumer Survey 06 Value Innovation Eliminate">
+     </p>
 
-   9. Value innovation across the cruise industry can be achieved by:
-      * Eliminating a feeling of idleness, monotony or repetitiveness (42%) as well as artificial atmospheres or inauthentic excursions (30%)
-      <p align="center">
-        <img src="/img/25_Consumer_Survey_06_Value_Innovation_Eliminate.png" width="600" title="Consumer Survey 06 Value Innovation Eliminate">
-      </p>
-
-      * Reducing overall ticket prices for all-inclusive itineraries (46%) and overcrowding on ships or at port destinations (27%)
-      <p align="center">
-        <img src="/img/27_Consumer_Survey_07_Value_Innovation_Reduce.png" width="600" title="Consumer Survey 07 Value Innovation Reduce">
-      </p>
-
-      * Raising the availability of diverse global itineraries (43%) and opportunities for immersive cultural excursions (27%)
-      <p align="center">
-        <img src="/img/29_Consumer_Survey_08_Value_Innovation_Raise.png" width="600" title="Consumer Survey 08 Value Innovation Raise">
-      </p>
-
-      * Creating small, personalized tours with local guides (40%) and itineraries featuring intimate cruise ships (28%)
-      <p align="center">
-        <img src="/img/31_Consumer_Survey_09_Value_Innovation_Create.png" width="600" title="Consumer Survey 09 Value Innovation Create">
-      </p>
+     * Reducing overall ticket prices for all-inclusive itineraries (46%) and overcrowding on ships or at port destinations (27%)
+     <p align="center">
+       <img src="/img/27_Consumer_Survey_07_Value_Innovation_Reduce.png" width="600" title="Consumer Survey 07 Value Innovation Reduce">
+     </p>
+     
+     * Raising the availability of diverse global itineraries (43%) and opportunities for immersive cultural excursions (27%)
+     <p align="center">
+       <img src="/img/29_Consumer_Survey_08_Value_Innovation_Raise.png" width="600" title="Consumer Survey 08 Value Innovation Raise">
+     </p>
+     
+     * Creating small, personalized tours with local guides (40%) and itineraries featuring intimate cruise ships (28%)
+     <p align="center">
+       <img src="/img/31_Consumer_Survey_09_Value_Innovation_Create.png" width="600" title="Consumer Survey 09 Value Innovation Create">
+     </p>
 
 2. **Strategic Recommendations**<br>
+   **Scenario Planning**
+   * The existing business model of mass market cruise lines responds to the continued growth scenario in “Out Tonight,” which envisions affordable itineraries and crowded destinations. Consequently, consumers desire fun and exciting activities that they cannot experience in their homes or daily routines. The existing business model offers novel experiences through:
+     * A variety of mega-ships
+     * All-inclusive entertainment
+     * Affordable itineraries to international destinations
+     
+   **Option Planning**
    Three actionable options respond to the four future scenarios created from these uncertainties:
-   1. The existing business model of mass market cruise lines responds to the continued growth scenario in “Out Tonight,” which envisions affordable itineraries and crowded destinations. Consequently, consumers desire fun and exciting activities that they cannot experience in their homes or daily routines. The existing business model offers novel experiences through:
-      * A variety of mega-ships
-      * All-inclusive entertainment
-      * Affordable itineraries to international destinations
-   2. The option for “Hub-and-Spoke Ecotourism” responds to the steady state scenario in “What You Own,” which imagines affordable itineraries and spacious destinations. Consumers are experienced and savvy globetrotters who are sophisticated and generationally-responsible. This option offers multi-day stopover itineraries from major ports of call to the growing number of nearby ecotourism port destinations, focusing on:
-       * Sustainability
-       * Intimate ships
-       * Personalization
-   3. The option for “Community Mega-Events” responds to the transformational scenario in “Rent,” in which the future is described by expensive itineraries and spacious destinations. Large portions of the population work remotely in micro-hubs of nearby mega-cities, who are attracted to virtual and augmented reality technology in digital tourism. This option focuses on:
-       * The collective belonging to community
-       * Immersive cultural experiences
-       * Large-scale convention events
-   4. The option for “Maritime Digital Nomads” responds to the total collapse scenario in “On the Street,” which results in expensive itineraries and crowded destinations. Through financial shock events and growing inequality, consumers are concentrated in mega-cities with little disposable income. This option offers long-term residential leases and collaborative office spaces to remote workers, known as digital nomads, delivering:
-       * Affordability
-       * Workspaces
-       * Reliability
+   * The option for “Hub-and-Spoke Ecotourism” responds to the steady state scenario in “What You Own,” which imagines affordable itineraries and spacious destinations. Consumers are experienced and savvy globetrotters who are sophisticated and generationally-responsible. This option offers multi-day stopover itineraries from major ports of call to the growing number of nearby ecotourism port destinations, focusing on:
+      * Sustainability
+      * Intimate ships
+      * Personalization
+   * The option for “Community Mega-Events” responds to the transformational scenario in “Rent,” in which the future is described by expensive itineraries and spacious destinations. Large portions of the population work remotely in micro-hubs of nearby mega-cities, who are attracted to virtual and augmented reality technology in digital tourism. This option focuses on:
+      * The collective belonging to community
+      * Immersive cultural experiences
+      * Large-scale convention events
+   * The option for “Maritime Digital Nomads” responds to the total collapse scenario in “On the Street,” which results in expensive itineraries and crowded destinations. Through financial shock events and growing inequality, consumers are concentrated in mega-cities with little disposable income. This option offers long-term residential leases and collaborative office spaces to remote workers, known as digital nomads, delivering:
+      * Affordability
+      * Workspaces
+      * Reliability
 
 3. **Limitations and Future Work**<br>
    The completeness of this research is limited due to its academic nature with a sole researcher:
@@ -326,30 +337,3 @@ The critical elements of this strategic framework are presented in:
 
 **License**
 * [MIT License](https://github.com/acdick/scenario_planning_for_the_2035_cruise_industry/blob/master/LICENSE)
-
-
-
-
-**Initial Coding of Interviews with Industry Experts**<br>
-
-<p align="center">
-  <img src="/img/18_Initial_Coding_Industry_Experts.png" width="600" title="Initial Coding Industry Experts">
-</p>
-
-**Initial Coding of Interviews with Consumers**<br>
-
-<p align="center">
-  <img src="/img/19_Initial_Coding_Consumers.png" width="600" title="Initial Coding Consumers">
-</p>
-
-**Consumer Survey: Critical Uncertainties 2019**<br>
-
-<p align="center">
-  <img src="/img/20_Consumer_Survey_01_Critical_Uncertainties_2019.png" width="600" title="Consumer Survey 01 Critical Uncertainties 2019">
-</p>
-
-**Consumer Survey: Critical Uncertainties 2034**<br>
-
-<p align="center">
-  <img src="/img/33_Consumer_Survey_10_Critical_Uncertainties_2034.png" width="600" title="Consumer Survey 10 Critical Uncertainties 2034">
-</p>
