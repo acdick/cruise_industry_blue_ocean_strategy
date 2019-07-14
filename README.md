@@ -143,21 +143,25 @@ Future scenarios for the cruise industry were designed through:
    * Implications to the current business model of mass market cruise lines
    * Early warning signals, which can be monitored to alert its onset
      * **Out Tonight**
+       Consumers desire fun and exciting activities that they cannot experience in their homes or daily routines
        <p align="center">
          <img src="/img/06_Scenario_Vector_01_Out_Tonight.png" width="600" title="Scenario Vector 01 Out Tonight">
        </p>
    
      * **What You Own**
+       Consumers are experienced and savvy globetrotters who are sophisticated and generationally-responsible
        <p align="center">
          <img src="/img/07_Scenario_Vector_02_What_You_Own.png" width="600" title="Scenario Vector 02 What You Own">
        </p>
    
      * **Rent**
+       Large portions of the population work remotely in micro-hubs of nearby mega-cities, who are attracted to virtual and augmented reality technology in digital tourism
        <p align="center">
          <img src="/img/08_Scenario_Vector_03_Rent.png" width="600" title="Scenario Vector 03 Rent">
        </p>
    
      * **On the Street**
+       Through financial shock events and growing inequality, consumers are concentrated in mega-cities with little disposable income
        <p align="center">
          <img src="/img/09_Scenario_Vector_04_On_the_Street.png" width="600" title="Scenario Vector 04 On the Street">
        </p>
@@ -296,30 +300,22 @@ The critical elements of this strategic framework are presented in:
 
 2. **Strategic Recommendations**<br>
    *Scenario Planning*
-   * The existing business model of mass market cruise lines responds to the continued growth scenario in “Out Tonight,” which envisions affordable itineraries and crowded destinations.
-   * Consequently, consumers desire fun and exciting activities that they cannot experience in their homes or daily routines.
-   * The existing business model offers novel experiences through:
+   * The existing business model of mass market cruise lines responds to the continued growth scenario in “Out Tonight,” which envisions affordable itineraries and crowded destinations. The existing business model offers novel experiences through:
      * A variety of mega-ships
      * All-inclusive entertainment
      * Affordable itineraries to international destinations
      
    *Option Planning*<br>
    Three actionable options respond to the four future scenarios created from these uncertainties:
-   * The option for “Hub-and-Spoke Ecotourism” responds to the steady state scenario in “What You Own,” which imagines affordable itineraries and spacious destinations.
-   * Consumers are experienced and savvy globetrotters who are sophisticated and generationally-responsible.
-   * This option offers multi-day stopover itineraries from major ports of call to the growing number of nearby ecotourism port destinations, focusing on:
+   * The option for “Hub-and-Spoke Ecotourism” responds to the steady state scenario in “What You Own,” which imagines affordable itineraries and spacious destinations.  This option offers multi-day stopover itineraries from major ports of call to the growing number of nearby ecotourism port destinations, focusing on:
       * Sustainability
       * Intimate ships
       * Personalization
-   * The option for “Community Mega-Events” responds to the transformational scenario in “Rent,” in which the future is described by expensive itineraries and spacious destinations.
-   * Large portions of the population work remotely in micro-hubs of nearby mega-cities, who are attracted to virtual and augmented reality technology in digital tourism.
-   * This option focuses on:
+   * The option for “Community Mega-Events” responds to the transformational scenario in “Rent,” in which the future is described by expensive itineraries and spacious destinations. This option focuses on:
       * The collective belonging to community
       * Immersive cultural experiences
       * Large-scale convention events
-   * The option for “Maritime Digital Nomads” responds to the total collapse scenario in “On the Street,” which results in expensive itineraries and crowded destinations.
-   * Through financial shock events and growing inequality, consumers are concentrated in mega-cities with little disposable income.
-   * This option offers long-term residential leases and collaborative office spaces to remote workers, known as digital nomads, delivering:
+   * The option for “Maritime Digital Nomads” responds to the total collapse scenario in “On the Street,” which results in expensive itineraries and crowded destinations. This option offers long-term residential leases and collaborative office spaces to remote workers, known as digital nomads, delivering:
       * Affordability
       * Workspaces
       * Reliability
