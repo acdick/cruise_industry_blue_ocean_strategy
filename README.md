@@ -11,6 +11,7 @@ Although the cruise industry has experienced high growth in recent years, consum
 * [Project Features](#project-features)
 * [Introduction](#introduction)
 * [Research Method](#research-method)
+* [The Cruise Industry](#the-cruise-industry)
 * [Contribute](#contribute)
 
 ## Project Features
@@ -79,6 +80,32 @@ Primary and secondary market research was conducted to develop specific scenario
 1. Environmental scanning to discover a range of driving forces surrounding the cruise industry
 2. Depth interviews with industry experts and consumers to identify relevant and impactful driving forces
 3. A consumer survey to isolate the two most critical uncertainties
+
+## The Cruise Industry
+A description of the cruise industry is presented with three layered perspectives, namely:
+
+1. The benefits of the industry value chain
+2. The industry structure that shapes intensity of competition
+3. The contextual and transactional driving forces that may influence the nature of the industry over time
+
+**Industry Value Chain**
+The value chain of the cruise industry is discussed in terms of:
+
+1. The value created by key activities through vertical relationships
+2. The market power held and the value captured by cruise lines
+
+**Industry Structure**
+The key dimensions of the Five C’s Analysis and the Four P’s Marketing Mix that characterize the cruise industry are:
+
+1. Market attractiveness
+2. Competitive dynamics
+3. Product characteristics
+
+**Driving Forces of Change**
+The driving forces that are relevant to the focal issue are identified by analyzing:
+
+1. The key factors that impact cruise line business
+2. The macro-trends that may influence those factors
 
 ## Business Modeling
 STRATEGY MAPS | VALUE CYCLES | BUSINESS MODEL CANVAS
