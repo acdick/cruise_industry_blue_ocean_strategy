@@ -10,6 +10,7 @@ Although the cruise industry has experienced high growth in recent years, consum
 
 * [Project Features](#project-features)
 * [Introduction](#introduction)
+* [Research Method](#research-method)
 * [Contribute](#contribute)
 
 ## Project Features
@@ -40,7 +41,7 @@ This report is organized to present:
 A strategic cycle of 15 years is assumed to be an appropriate impact horizon for this study, aligned with the operating lives of newbuild ships and vessels repurposed mid-cycle.
 
 **Key Focal Issue**<br>
-The key focal issue of this research study is thus articulated in the following query:
+The key focal issue of this research study is articulated in the following query:
 
 *How can the cruise industry maintain steady growth through 2035 by developing opportunities in new market space?*
 
@@ -49,6 +50,35 @@ The primary objectives of this research are to develop:
 
 1. Four scenarios representing contrasting 15-year futures of the cruise industry.
 2. Three strategic options that can be adopted by individual cruise lines to create new market space for the industry.
+
+## Research Method
+An overview of the research conducted for this study consists of:
+
+1. A review of the literature and state of the art of scenario planning and pertinent organizational strategy
+2. An outline of the theoretical framework applied to analyze the future of the cruise industry
+3. A description of the primary market research undertaken as part of this study to contribute to the industry body of knowledge
+
+**Literature Review**<br>
+A brief summary of the major themes surrounding scenario planning is arranged according to:
+
+1. The relationship between scenario planning and prospective strategy
+2. The historical development of scenario planning
+3. Scenario development methods
+4. Scenario validation and assessment
+5. Option planning via Blue Ocean Strategy
+
+**Applied Framework**<br>
+This research of the cruise industry applies:
+
+1. Scenario planning to envision alternative futures that are relevant to a key focal issue
+2. Option planning to offer firms with business model innovations
+
+**Market Research**<br>
+Primary and secondary market research was conducted to develop specific scenario and option planning components, including:
+
+1. Environmental scanning to discover a range of driving forces surrounding the cruise industry
+2. Depth interviews with industry experts and consumers to identify relevant and impactful driving forces
+3. A consumer survey to isolate the two most critical uncertainties
 
 ## Business Modeling
 STRATEGY MAPS | VALUE CYCLES | BUSINESS MODEL CANVAS
