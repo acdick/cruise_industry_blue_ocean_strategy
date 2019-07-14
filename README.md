@@ -142,25 +142,25 @@ Future scenarios for the cruise industry were designed through:
    * A narrative that describes the state of the most active contextual and transactional trends
    * Implications to the current business model of mass market cruise lines
    * Early warning signals, which can be monitored to alert its onset
-     * **Out Tonight**
+     * **Out Tonight**<br>
        Consumers desire fun and exciting activities that they cannot experience in their homes or daily routines
        <p align="center">
          <img src="/img/06_Scenario_Vector_01_Out_Tonight.png" width="600" title="Scenario Vector 01 Out Tonight">
        </p>
    
-     * **What You Own**
+     * **What You Own**<br>
        Consumers are experienced and savvy globetrotters who are sophisticated and generationally-responsible
        <p align="center">
          <img src="/img/07_Scenario_Vector_02_What_You_Own.png" width="600" title="Scenario Vector 02 What You Own">
        </p>
    
-     * **Rent**
+     * **Rent**<br>
        Large portions of the population work remotely in micro-hubs of nearby mega-cities, who are attracted to virtual and augmented reality technology in digital tourism
        <p align="center">
          <img src="/img/08_Scenario_Vector_03_Rent.png" width="600" title="Scenario Vector 03 Rent">
        </p>
    
-     * **On the Street**
+     * **On the Street**<br>
        Through financial shock events and growing inequality, consumers are concentrated in mega-cities with little disposable income
        <p align="center">
          <img src="/img/09_Scenario_Vector_04_On_the_Street.png" width="600" title="Scenario Vector 04 On the Street">
