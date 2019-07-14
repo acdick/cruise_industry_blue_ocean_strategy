@@ -303,7 +303,7 @@ The critical elements of this strategic framework are presented in:
      * All-inclusive entertainment
      * Affordable itineraries to international destinations
      
-   *Option Planning*
+   *Option Planning*<br>
    Three actionable options respond to the four future scenarios created from these uncertainties:
    * The option for “Hub-and-Spoke Ecotourism” responds to the steady state scenario in “What You Own,” which imagines affordable itineraries and spacious destinations.
    * Consumers are experienced and savvy globetrotters who are sophisticated and generationally-responsible.
