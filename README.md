@@ -67,7 +67,7 @@ An overview of the research conducted for this study consists of:
    * A consumer survey to isolate the two most critical uncertainties
 
 ## The Cruise Industry
-BUSINESS MODELING | BUSINESS MODEL CANVAS | VIRTUOUS VALUE CYCLES | STRATEGY MAPS
+BUSINESS MODELING | VALUE CHAINS | VIRTUOUS VALUE CYCLES | BUSINESS MODEL CANVAS | STRATEGY MAPS
 
 A description of the cruise industry is presented with three layered perspectives, namely:
 - [x] The benefits of the industry value chain
@@ -121,13 +121,13 @@ Future scenarios for the cruise industry were designed through:
      <img src="/img/17_Driving_Forces_Relevance_to_Experts_and_Consumers.png" width="600" title="Driving Forces Relevance to Experts and Consumers">
    </p>
    
-   * The decision set ultimately isolates Itinerary Affordability and Destination Utilization as the two critical uncertainties, based on the position, direction, speed and uncertainty of each critical scenario driver
+   * The decision set ultimately isolates *Itinerary Affordability* and *Destination Utilization* as the two critical uncertainties, based on the position, direction, speed and uncertainty of each critical scenario driver
    <p align="center">
      <img src="/img/04_Critical_Scenario_Drivers.png" width="600" title="Critical Scenario Drivers">
    </p>
 
 2. **Scenario Framework**<br>
-   * The two critical uncertainties for the cruise industry, based on primary market research, are Itinerary Affordability and Destination Utilization
+   * The two critical uncertainties for the cruise industry, based on primary market research, are *Itinerary Affordability* and *Destination Utilization*
    * Memorable song titles from the hit Broadway musical, Rent, are used to name the scenarios, which are:
      * “Out Tonight”
      * “What You Own”
@@ -177,7 +177,7 @@ Strategic options for the cruise industry were formulated by:
    
    Blue Ocean Strategy seeks to create and capture uncontested market space, referred to as blue oceans, through value innovation, which is achieved by simultaneously:
    * Differentiating value proposition for buyers
-   * improving cost structure
+   * Improving cost structure
 
 2. **Option Set**<br>
    Business model innovation can be driven from three perspectives, namely:
@@ -218,16 +218,16 @@ The critical elements of this strategic framework are presented in:
 - [x] Research limitations and opportunities for future work
 
 1. **Key Findings**<br>
-   **Business Modeling**
+   *Business Modeling*
    * The current business model of mass market cruise lines is governed by three virtuous cycles, which are:
      * The growth cycle, connecting new ships, high passenger volume and high ship utilization
      * The subsidy cycle, driving low fares, high onboard sales and high ticket subsidies
      * The investment cycle, interlinking low fares, high onboard sales and high net income
      
-   **Market Research**
-   <p align="center">
-     <img src="/img/18_Initial_Coding_Industry_Experts.png" width="600" title="Initial Coding Industry Experts">
-   </p>
+   *Market Research*
+     <p align="center">
+       <img src="/img/18_Initial_Coding_Industry_Experts.png" width="600" title="Initial Coding Industry Experts">
+     </p>
    * The impactful factors of the cruise industry are:
      * Excess passenger demand and undersupply of cruise ships
      * Access to low-cost international labor markets
@@ -295,23 +295,31 @@ The critical elements of this strategic framework are presented in:
      </p>
 
 2. **Strategic Recommendations**<br>
-   **Scenario Planning**
-   * The existing business model of mass market cruise lines responds to the continued growth scenario in “Out Tonight,” which envisions affordable itineraries and crowded destinations. Consequently, consumers desire fun and exciting activities that they cannot experience in their homes or daily routines. The existing business model offers novel experiences through:
+   *Scenario Planning*
+   * The existing business model of mass market cruise lines responds to the continued growth scenario in “Out Tonight,” which envisions affordable itineraries and crowded destinations.
+   * Consequently, consumers desire fun and exciting activities that they cannot experience in their homes or daily routines.
+   * The existing business model offers novel experiences through:
      * A variety of mega-ships
      * All-inclusive entertainment
      * Affordable itineraries to international destinations
      
-   **Option Planning**
+   *Option Planning*
    Three actionable options respond to the four future scenarios created from these uncertainties:
-   * The option for “Hub-and-Spoke Ecotourism” responds to the steady state scenario in “What You Own,” which imagines affordable itineraries and spacious destinations. Consumers are experienced and savvy globetrotters who are sophisticated and generationally-responsible. This option offers multi-day stopover itineraries from major ports of call to the growing number of nearby ecotourism port destinations, focusing on:
+   * The option for “Hub-and-Spoke Ecotourism” responds to the steady state scenario in “What You Own,” which imagines affordable itineraries and spacious destinations.
+   * Consumers are experienced and savvy globetrotters who are sophisticated and generationally-responsible.
+   * This option offers multi-day stopover itineraries from major ports of call to the growing number of nearby ecotourism port destinations, focusing on:
       * Sustainability
       * Intimate ships
       * Personalization
-   * The option for “Community Mega-Events” responds to the transformational scenario in “Rent,” in which the future is described by expensive itineraries and spacious destinations. Large portions of the population work remotely in micro-hubs of nearby mega-cities, who are attracted to virtual and augmented reality technology in digital tourism. This option focuses on:
+   * The option for “Community Mega-Events” responds to the transformational scenario in “Rent,” in which the future is described by expensive itineraries and spacious destinations.
+   * Large portions of the population work remotely in micro-hubs of nearby mega-cities, who are attracted to virtual and augmented reality technology in digital tourism.
+   * This option focuses on:
       * The collective belonging to community
       * Immersive cultural experiences
       * Large-scale convention events
-   * The option for “Maritime Digital Nomads” responds to the total collapse scenario in “On the Street,” which results in expensive itineraries and crowded destinations. Through financial shock events and growing inequality, consumers are concentrated in mega-cities with little disposable income. This option offers long-term residential leases and collaborative office spaces to remote workers, known as digital nomads, delivering:
+   * The option for “Maritime Digital Nomads” responds to the total collapse scenario in “On the Street,” which results in expensive itineraries and crowded destinations.
+   * Through financial shock events and growing inequality, consumers are concentrated in mega-cities with little disposable income.
+   * This option offers long-term residential leases and collaborative office spaces to remote workers, known as digital nomads, delivering:
       * Affordability
       * Workspaces
       * Reliability
