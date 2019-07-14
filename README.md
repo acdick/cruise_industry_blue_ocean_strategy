@@ -9,7 +9,6 @@ Although the cruise industry has experienced high growth in recent years, consum
 ## Repository Contents
 
 * [Project Features](#project-features)
-* [Introduction](#introduction)
 * [Research Method](#research-method)
 * [The Cruise Industry](#the-cruise-industry)
 * [Scenario Planning](#scenario-planning)
@@ -20,37 +19,25 @@ Although the cruise industry has experienced high growth in recent years, consum
 ## Project Features
 CRUISE INDUSTRY | BUSINESS MODELING | MARKET RESEARCH | SCENARIO PLANNING | OPTION PLANNING
 
-- [x] **Cruise Industry**<br>
-How can the cruise industry maintain steady growth through 2035 by developing opportunities in new market space?
-- [x] **Business Modeling**<br>
-Business modeling
-- [x] **Market Research**<br>
-Market research
-- [x] **Scenario Planning**<br>
-Four scenarios representing contrasting 15-year futures of the cruise industry.
-- [x] **Option Planning**<br>
-Three strategic options that can be adopted by individual cruise lines to create new market space for the industry.
-
-## Introduction
 This report is organized to present:
-1. An introduction to the focus of the research
-2. An outline of the applied research method
-3. An analysis of the cruise industry
-4. Development of a scenario planning framework
-5. Generation of strategic industry options
-6. Conclusions and recommendations
+- [x] An introduction to the focus of the research
+- [x] An outline of the applied research method
+- [x] An analysis of the cruise industry
+- [x] Development of a scenario planning framework
+- [x] Generation of strategic industry options
+- [x] Conclusions and recommendations
 
-- [x] **Impact Horizon**<br>
+1. **Impact Horizon**<br>
 A strategic cycle of 15 years is assumed to be an appropriate impact horizon for this study, aligned with the operating lives of newbuild ships and vessels repurposed mid-cycle.
 
-- [x] **Key Focal Issue**<br>
+2. **Key Focal Issue**<br>
 The key focal issue of this research study is articulated in the following query:
 *How can the cruise industry maintain steady growth through 2035 by developing opportunities in new market space?*
 
-- [x] **Research Objectives**<br>
-The primary objectives of this research are to develop:
-* Four scenarios representing contrasting 15-year futures of the cruise industry.
-* Three strategic options that can be adopted by individual cruise lines to create new market space for the industry.
+3. **Research Objectives**<br>
+   The primary objectives of this research are to develop:
+   * Four scenarios representing contrasting 15-year futures of the cruise industry.
+   * Three strategic options that can be adopted by individual cruise lines to create new market space for the industry.
 
 ## Research Method
 QUALITATIVE RESEARCH | ENVIRONMENTAL SCANNING | CROSS-CODED DEPTH INTERVIEWS | CONSUMER SURVEYS
@@ -60,24 +47,24 @@ An overview of the research conducted for this study consists of:
 2. An outline of the theoretical framework applied to analyze the future of the cruise industry
 3. A description of the primary market research undertaken as part of this study to contribute to the industry body of knowledge
 
-- [x] **Literature Review**<br>
-A brief summary of the major themes surrounding scenario planning is arranged according to:
-* The relationship between scenario planning and prospective strategy
-* The historical development of scenario planning
-* Scenario development methods
-* Scenario validation and assessment
-* Option planning via Blue Ocean Strategy
+1. **Literature Review**<br>
+   A brief summary of the major themes surrounding scenario planning is arranged according to:
+   * The relationship between scenario planning and prospective strategy
+   * The historical development of scenario planning
+   * Scenario development methods
+   * Scenario validation and assessment
+   * Option planning via Blue Ocean Strategy
 
-- [x] **Applied Framework**<br>
-This research of the cruise industry applies:
-* Scenario planning to envision alternative futures that are relevant to a key focal issue
-* Option planning to offer firms with business model innovations
+2. **Applied Framework**<br>
+   This research of the cruise industry applies:
+   * Scenario planning to envision alternative futures that are relevant to a key focal issue
+   * Option planning to offer firms with business model innovations
 
-- [x] **Market Research**<br>
-Primary and secondary market research was conducted to develop specific scenario and option planning components, including:
-* Environmental scanning to discover a range of driving forces surrounding the cruise industry
-* Depth interviews with industry experts and consumers to identify relevant and impactful driving forces
-* A consumer survey to isolate the two most critical uncertainties
+3. **Market Research**<br>
+   Primary and secondary market research was conducted to develop specific scenario and option planning components, including:
+   * Environmental scanning to discover a range of driving forces surrounding the cruise industry
+   * Depth interviews with industry experts and consumers to identify relevant and impactful driving forces
+   * A consumer survey to isolate the two most critical uncertainties
 
 **Initial Coding of Interviews with Industry Experts**<br>
 
@@ -133,22 +120,10 @@ Primary and secondary market research was conducted to develop specific scenario
   <img src="/img/25_Consumer_Survey_06_Value_Innovation_Eliminate.png" width="600" title="Consumer Survey 06 Value Innovation Eliminate">
 </p>
 
-**Consumer Survey: Value Innovation Statistics**<br>
-
-<p align="center">
-  <img src="/img/26_Consumer_Survey_06_Value_Innovation_Eliminate_Statistics.png" width="600" title="Consumer Survey 06 Value Innovation Eliminate Statistics">
-</p>
-
 **Consumer Survey: Value Innovation Reduce**<br>
 
 <p align="center">
   <img src="/img/27_Consumer_Survey_07_Value_Innovation_Reduce.png" width="600" title="Consumer Survey 07 Value Innovation Reduce">
-</p>
-
-**Consumer Survey: Value Innovation Reduce Statistics**<br>
-
-<p align="center">
-  <img src="/img/28_Consumer_Survey_07_Value_Innovation_Reduce_Statistics.png" width="600" title="Consumer Survey 07 Value Innovation Reduce Statistics">
 </p>
 
 **Consumer Survey: Value Innovation Raise**<br>
@@ -157,22 +132,10 @@ Primary and secondary market research was conducted to develop specific scenario
   <img src="/img/29_Consumer_Survey_08_Value_Innovation_Raise.png" width="600" title="Consumer Survey 08 Value Innovation Raise">
 </p>
 
-**Consumer Survey: Value Innovation Raise Statistics**<br>
-
-<p align="center">
-  <img src="/img/30_Consumer_Survey_08_Value_Innovation_Raise_Statistics.png" width="600" title="Consumer Survey 08 Value Innovation Raise Statistics">
-</p>
-
 **Consumer Survey: Value Innovation Create**<br>
 
 <p align="center">
   <img src="/img/31_Consumer_Survey_09_Value_Innovation_Create.png" width="600" title="Consumer Survey 09 Value Innovation Create">
-</p>
-
-**Consumer Survey: Value Innovation Create Statistics**<br>
-
-<p align="center">
-  <img src="/img/32_Consumer_Survey_09_Value_Innovation_Create_Statistics.png" width="600" title="Consumer Survey 09 Value Innovation Create Statistics">
 </p>
 
 ## The Cruise Industry
