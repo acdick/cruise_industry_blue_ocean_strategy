@@ -12,6 +12,9 @@ Although the cruise industry has experienced high growth in recent years, consum
 * [Introduction](#introduction)
 * [Research Method](#research-method)
 * [The Cruise Industry](#the-cruise-industry)
+* [Scenario Planning](#scenario-planning)
+* [Option Planning](#option-planning)
+* [Conclusions](#conclusions)
 * [Contribute](#contribute)
 
 ## Project Features
@@ -30,7 +33,6 @@ Three strategic options that can be adopted by individual cruise lines to create
 
 ## Introduction
 This report is organized to present:
-
 1. An introduction to the focus of the research
 2. An outline of the applied research method
 3. An analysis of the cruise industry
@@ -38,108 +40,44 @@ This report is organized to present:
 5. Generation of strategic industry options
 6. Conclusions and recommendations
 
-**Impact Horizon**<br>
+- [x] **Impact Horizon**<br>
 A strategic cycle of 15 years is assumed to be an appropriate impact horizon for this study, aligned with the operating lives of newbuild ships and vessels repurposed mid-cycle.
 
-**Key Focal Issue**<br>
+- [x] **Key Focal Issue**<br>
 The key focal issue of this research study is articulated in the following query:
-
 *How can the cruise industry maintain steady growth through 2035 by developing opportunities in new market space?*
 
-**Research Objectives**<br>
+- [x] **Research Objectives**<br>
 The primary objectives of this research are to develop:
-
-1. Four scenarios representing contrasting 15-year futures of the cruise industry.
-2. Three strategic options that can be adopted by individual cruise lines to create new market space for the industry.
+* Four scenarios representing contrasting 15-year futures of the cruise industry.
+* Three strategic options that can be adopted by individual cruise lines to create new market space for the industry.
 
 ## Research Method
-An overview of the research conducted for this study consists of:
+QUALITATIVE RESEARCH | ENVIRONMENTAL SCANNING | CROSS-CODED DEPTH INTERVIEWS | CONSUMER SURVEYS
 
+An overview of the research conducted for this study consists of:
 1. A review of the literature and state of the art of scenario planning and pertinent organizational strategy
 2. An outline of the theoretical framework applied to analyze the future of the cruise industry
 3. A description of the primary market research undertaken as part of this study to contribute to the industry body of knowledge
 
-**Literature Review**<br>
+- [x] **Literature Review**<br>
 A brief summary of the major themes surrounding scenario planning is arranged according to:
+* The relationship between scenario planning and prospective strategy
+* The historical development of scenario planning
+* Scenario development methods
+* Scenario validation and assessment
+* Option planning via Blue Ocean Strategy
 
-1. The relationship between scenario planning and prospective strategy
-2. The historical development of scenario planning
-3. Scenario development methods
-4. Scenario validation and assessment
-5. Option planning via Blue Ocean Strategy
-
-**Applied Framework**<br>
+- [x] **Applied Framework**<br>
 This research of the cruise industry applies:
+* Scenario planning to envision alternative futures that are relevant to a key focal issue
+* Option planning to offer firms with business model innovations
 
-1. Scenario planning to envision alternative futures that are relevant to a key focal issue
-2. Option planning to offer firms with business model innovations
-
-**Market Research**<br>
+- [x] **Market Research**<br>
 Primary and secondary market research was conducted to develop specific scenario and option planning components, including:
-
-1. Environmental scanning to discover a range of driving forces surrounding the cruise industry
-2. Depth interviews with industry experts and consumers to identify relevant and impactful driving forces
-3. A consumer survey to isolate the two most critical uncertainties
-
-## The Cruise Industry
-A description of the cruise industry is presented with three layered perspectives, namely:
-
-1. The benefits of the industry value chain
-2. The industry structure that shapes intensity of competition
-3. The contextual and transactional driving forces that may influence the nature of the industry over time
-
-**Industry Value Chain**
-The value chain of the cruise industry is discussed in terms of:
-
-1. The value created by key activities through vertical relationships
-2. The market power held and the value captured by cruise lines
-
-**Industry Structure**
-The key dimensions of the Five C’s Analysis and the Four P’s Marketing Mix that characterize the cruise industry are:
-
-1. Market attractiveness
-2. Competitive dynamics
-3. Product characteristics
-
-**Driving Forces of Change**
-The driving forces that are relevant to the focal issue are identified by analyzing:
-
-1. The key factors that impact cruise line business
-2. The macro-trends that may influence those factors
-
-## Business Modeling
-STRATEGY MAPS | VALUE CYCLES | BUSINESS MODEL CANVAS
-
-**Causality Tree of a Mass Market Cruise Line**<br>
-
-<p align="center">
-  <img src="/img/15_Causality_Tree.png" width="600" title="Causality Tree">
-</p>
-
-**Value Cycle of a Mass Market Cruise Line**<br>
-
-<p align="center">
-  <img src="/img/16_Value_Cycle.png" width="600" title="Value Cycle">
-</p>
-
-**Driving Forces: Relevance to Experts and Consumers**<br>
-
-<p align="center">
-  <img src="/img/17_Driving_Forces_Relevance_to_Experts_and_Consumers.png" width="600" title="Driving Forces Relevance to Experts and Consumers">
-</p>
-
-## Market Research
-QUALITATIVE RESEARCH | ENVIRONMENTAL SCANNING | CROSS-CODED DEPTH INTERVIEWS | CONSUMER SURVEYS
-
-**Driving Forces**<br>
-
-<p align="center">
-  <img src="/img/01_Driving_Forces_01.png" width="600" title="Driving Forces 01">
-</p>
-
-<p align="center">
-  <img src="/img/02_Driving_Forces_02.png" width="600" title="Driving Forces 02">
-</p>
+* Environmental scanning to discover a range of driving forces surrounding the cruise industry
+* Depth interviews with industry experts and consumers to identify relevant and impactful driving forces
+* A consumer survey to isolate the two most critical uncertainties
 
 **Initial Coding of Interviews with Industry Experts**<br>
 
@@ -237,10 +175,67 @@ QUALITATIVE RESEARCH | ENVIRONMENTAL SCANNING | CROSS-CODED DEPTH INTERVIEWS | C
   <img src="/img/32_Consumer_Survey_09_Value_Innovation_Create_Statistics.png" width="600" title="Consumer Survey 09 Value Innovation Create Statistics">
 </p>
 
+## The Cruise Industry
+STRATEGY MAPS | VALUE CYCLES | BUSINESS MODEL CANVAS
+
+A description of the cruise industry is presented with three layered perspectives, namely:
+1. The benefits of the industry value chain
+2. The industry structure that shapes intensity of competition
+3. The contextual and transactional driving forces that may influence the nature of the industry over time
+
+- [x] **Industry Value Chain**<br>
+The value chain of the cruise industry is discussed in terms of:
+* The value created by key activities through vertical relationships
+* The market power held and the value captured by cruise lines
+
+**Value Cycle of a Mass Market Cruise Line**<br>
+
+<p align="center">
+  <img src="/img/16_Value_Cycle.png" width="600" title="Value Cycle">
+</p>
+
+- [x] **Industry Structure**<br>
+The key dimensions of the Five C’s Analysis and the Four P’s Marketing Mix that characterize the cruise industry are:
+* Market attractiveness
+* Competitive dynamics
+* Product characteristics
+
+**Causality Tree of a Mass Market Cruise Line**<br>
+
+<p align="center">
+  <img src="/img/15_Causality_Tree.png" width="600" title="Causality Tree">
+</p>
+
+- [x] **Driving Forces of Change**<br>
+The driving forces that are relevant to the focal issue are identified by analyzing:
+* The key factors that impact cruise line business
+* The macro-trends that may influence those factors
+
+<p align="center">
+  <img src="/img/01_Driving_Forces_01.png" width="600" title="Driving Forces 01">
+</p>
+
+<p align="center">
+  <img src="/img/02_Driving_Forces_02.png" width="600" title="Driving Forces 02">
+</p>
+
+**Driving Forces: Relevance to Experts and Consumers**<br>
+
+<p align="center">
+  <img src="/img/17_Driving_Forces_Relevance_to_Experts_and_Consumers.png" width="600" title="Driving Forces Relevance to Experts and Consumers">
+</p>
+
 ## Scenario Planning
 MACRO-TRENDS | DRIVING FORCES | IMPACT AND UNCERTAINTY MATRIX | SCENARIO MATRIX | MORPHOLOGICAL ANALYSIS
 
-**Impact and Uncertainty Matrix**<br>
+Future scenarios for the cruise industry were designed through:
+1. Identification of critical uncertainties
+2. Construction of a logical scenario framework
+3. Development of individual scenario stories
+
+- [x] **Critical Uncertainties**<br>
+* The consideration set of 40 mega-trends was organized into an Impact and Uncertainty Matrix
+* The level of impact and degree of uncertainty of each trend was ranked by relevance according to interviews with five experts and 11 consumers, respectively
 
 <p align="center">
   <img src="/img/03_Impact_and_Uncertainty_Matrix.png" width="600" title="Impact and Uncertainty Matrix">
@@ -252,11 +247,13 @@ MACRO-TRENDS | DRIVING FORCES | IMPACT AND UNCERTAINTY MATRIX | SCENARIO MATRIX 
   <img src="/img/04_Critical_Scenario_Drivers.png" width="600" title="Critical Scenario Drivers">
 </p>
 
-**Double Uncertainty Scenario Matrix**<br>
+- [x] **Scenario Framework**<br>
 
 <p align="center">
   <img src="/img/05_Double_Uncertainty_Scenario_Matrix.png" width="600" title="Double Uncertainty Scenario Matrix">
 </p>
+
+- [x] **Scenario Stories**<br>
 
 **Scenario Vector: Out Tonight**<br>
 
@@ -285,6 +282,15 @@ MACRO-TRENDS | DRIVING FORCES | IMPACT AND UNCERTAINTY MATRIX | SCENARIO MATRIX 
 ## Option Planning
 BLUE OCEAN STRATEGY | VALUE INNOVATION | FOUR ACTIONS FRAMEWORK | STRATEGY CANVAS | PORTFOLIO REVIEW
 
+Strategic options for the cruise industry were formulated by:
+1. Developing strategic direction to target white space market opportunities with Blue Ocean Strategy via value innovation
+2. Creating an option set by reshaping the business model of mass market cruise lines with the Four Actions Framework
+3. Evaluating options against each other by comparing their properties using the Strategy Canvas
+
+- [x] **Strategic Direction**<br>
+
+- [x] **Option Set**<br>
+
 **Four Actions Framework: Hub and Spoke Eco-Tourism**<br>
 
 <p align="center">
@@ -303,6 +309,8 @@ BLUE OCEAN STRATEGY | VALUE INNOVATION | FOUR ACTIONS FRAMEWORK | STRATEGY CANVA
   <img src="/img/12_Four_Actions_Framework_03_Maritime_Digital_Nomads.png" width="600" title="Four Actions Framework 03 Maritime Digital Nomads">
 </p>
 
+- [x] **Option Evaluation**<br>
+
 **Strategy Canvas**<br>
 
 <p align="center">
@@ -314,6 +322,18 @@ BLUE OCEAN STRATEGY | VALUE INNOVATION | FOUR ACTIONS FRAMEWORK | STRATEGY CANVA
 <p align="center">
   <img src="/img/14_Windtunneling_Scenario_Option_Matrix.png" width="600" title="Windtunneling Scenario Option Matrix">
 </p>
+
+## Conclusions
+The critical elements of this strategic framework are presented in:
+1. Key research findings
+2. Strategic industry recommendations
+3. Research limitations and opportunities for future work
+
+- [x] **Key Findings**<br>
+
+- [x] **Strategic Recommendations**<br>
+
+- [x] **Limitations and Future Work**<br>
 
 ## Contribute
 
