@@ -87,13 +87,14 @@ A description of the cruise industry is presented with three layered perspective
    * Market attractiveness
    * Competitive dynamics
    * Product characteristics
-     <p align="center">
-       <img src="/img/15_Causality_Tree.png" width="600" title="Causality Tree">
-     </p>
 
 3. **Driving Forces of Change**<br>
    The driving forces that are relevant to the focal issue are identified by analyzing:
    * The key factors that impact cruise line business
+     <p align="center">
+       <img src="/img/15_Causality_Tree.png" width="600" title="Causality Tree">
+     </p>
+     
    * The macro-trends that may influence those factors
      <p align="center">
        <img src="/img/01_Driving_Forces_01.png" width="600" title="Driving Forces 01">
@@ -167,7 +168,7 @@ Future scenarios for the cruise industry were designed through:
        </p>
 
 ## Option Planning
-BLUE OCEAN STRATEGY | VALUE INNOVATION | FOUR ACTIONS FRAMEWORK | STRATEGY CANVAS | PORTFOLIO REVIEW
+BLUE OCEAN STRATEGY | VALUE INNOVATION | FOUR ACTIONS FRAMEWORK | STRATEGY CANVAS
 
 Strategic options for the cruise industry were formulated by:
 - [x] Developing strategic direction to target white space market opportunities with Blue Ocean Strategy via value innovation
@@ -186,19 +187,22 @@ Strategic options for the cruise industry were formulated by:
 2. **Option Set**<br>
    Business model innovation can be driven from three perspectives, namely:
    * Exploration by customer impact:
-     * **Hub and Spoke Eco-Tourism**
+     * **Hub and Spoke Eco-Tourism**<br>
+       This cruise industry response offers multi-day stopover itineraries from major ports of call to the growing number of nearby ecotourism port destinations
        <p align="center">
          <img src="/img/10_Four_Actions_Framework_01_Hub_and_Spoke_Eco_Tourism.png" width="600" title="Four Actions Framework 01 Hub and Spoke Eco-Tourism">
        </p>
    
    * Exploration by value proposition impact:
-     * **Community Mega-Events**
+     * **Community Mega-Events**<br>
+       This cruise industry response targets large-scale convention events, focusing on the collective belonging to community, rather than the individual pursuit of leisure
        <p align="center">
          <img src="/img/11_Four_Actions_Framework_02_Community_Mega_Events.png" width="600" title="Four Actions Framework 02 Community Mega-Events">
        </p>
    
    * Exploration by cost impact:
-     * **Maritime Digital Nomads**
+     * **Maritime Digital Nomads**<br>
+       This cruise industry response leases long-term residences and collaborative office spaces to remote workers, known as digital nomads
        <p align="center">
          <img src="/img/12_Four_Actions_Framework_03_Maritime_Digital_Nomads.png" width="600" title="Four Actions Framework 03 Maritime Digital Nomads">
        </p>
