@@ -28,7 +28,7 @@ This report is organized to present:
 - [x] Conclusions and recommendations
 
 1. **Impact Horizon**<br>
-   A strategic cycle of 15 years is assumed to be an appropriate impact horizon for this study, aligned with the operating lives of newbuild ships and vessels repurposed mid-cycle
+   A strategic cycle of 15 years is assumed to be an appropriate impact horizon for this study, aligned with the operating lives of newbuild ships and vessels repurposed mid-cycle.
 
 2. **Key Focal Issue**<br>
    The key focal issue of this research study is articulated in the following query:
@@ -112,23 +112,23 @@ Future scenarios for the cruise industry were designed through:
 - [x] Development of individual scenario stories
 
 1. **Critical Uncertainties**<br>
-   * The consideration set of 40 mega-trends was organized into an Impact and Uncertainty Matrix
+   * The consideration set of 40 mega-trends was organized into an Impact and Uncertainty Matrix.
      <p align="center">
        <img src="/img/03_Impact_and_Uncertainty_Matrix.png" width="600" title="Impact and Uncertainty Matrix">
      </p>
    
-   * The level of impact and degree of uncertainty of each trend was ranked by relevance according to interviews with five experts and 11 consumers, respectively
+   * The level of impact and degree of uncertainty of each trend was ranked by relevance according to interviews with five experts and 11 consumers, respectively.
      <p align="center">
        <img src="/img/17_Driving_Forces_Relevance_to_Experts_and_Consumers.png" width="600" title="Driving Forces Relevance to Experts and Consumers">
      </p>
    
-   * The decision set ultimately isolates *Itinerary Affordability* and *Destination Utilization* as the two critical uncertainties, based on the position, direction, speed and uncertainty of each critical scenario driver
+   * The decision set ultimately isolates *Itinerary Affordability* and *Destination Utilization* as the two critical uncertainties, based on the position, direction, speed and uncertainty of each critical scenario driver.
      <p align="center">
        <img src="/img/04_Critical_Scenario_Drivers.png" width="600" title="Critical Scenario Drivers">
      </p>
 
 2. **Scenario Framework**<br>
-   * The two critical uncertainties for the cruise industry, based on primary market research, are *Itinerary Affordability* and *Destination Utilization*
+   * The two critical uncertainties for the cruise industry, based on primary market research, are *Itinerary Affordability* and *Destination Utilization*.
    * Memorable song titles from the hit Broadway musical, Rent, are used to name the scenarios, which are:
      * “Out Tonight”
      * “What You Own”
@@ -144,25 +144,25 @@ Future scenarios for the cruise industry were designed through:
    * Implications to the current business model of mass market cruise lines
    * Early warning signals, which can be monitored to alert its onset
      * **Out Tonight**<br>
-       Consumers desire fun and exciting activities that they cannot experience in their homes or daily routines
+       Consumers desire fun and exciting activities that they cannot experience in their homes or daily routines.
        <p align="center">
          <img src="/img/06_Scenario_Vector_01_Out_Tonight.png" width="600" title="Scenario Vector 01 Out Tonight">
        </p>
    
      * **What You Own**<br>
-       Consumers are experienced and savvy globetrotters who are sophisticated and generationally-responsible
+       Consumers are experienced and savvy globetrotters who are sophisticated and generationally-responsible.
        <p align="center">
          <img src="/img/07_Scenario_Vector_02_What_You_Own.png" width="600" title="Scenario Vector 02 What You Own">
        </p>
    
      * **Rent**<br>
-       Large portions of the population work remotely in micro-hubs of nearby mega-cities, who are attracted to virtual and augmented reality technology in digital tourism
+       Large portions of the population work remotely in micro-hubs of nearby mega-cities, who are attracted to virtual and augmented reality technology in digital tourism.
        <p align="center">
          <img src="/img/08_Scenario_Vector_03_Rent.png" width="600" title="Scenario Vector 03 Rent">
        </p>
    
      * **On the Street**<br>
-       Through financial shock events and growing inequality, consumers are concentrated in mega-cities with little disposable income
+       Through financial shock events and growing inequality, consumers are concentrated in mega-cities with little disposable income.
        <p align="center">
          <img src="/img/09_Scenario_Vector_04_On_the_Street.png" width="600" title="Scenario Vector 04 On the Street">
        </p>
@@ -188,21 +188,21 @@ Strategic options for the cruise industry were formulated by:
    Business model innovation can be driven from three perspectives, namely:
    * Exploration by customer impact:
      * **Hub and Spoke Eco-Tourism**<br>
-       This cruise industry response offers multi-day stopover itineraries from major ports of call to the growing number of nearby ecotourism port destinations
+       This cruise industry response offers multi-day stopover itineraries from major ports of call to the growing number of nearby ecotourism port destinations.
        <p align="center">
          <img src="/img/10_Four_Actions_Framework_01_Hub_and_Spoke_Eco_Tourism.png" width="600" title="Four Actions Framework 01 Hub and Spoke Eco-Tourism">
        </p>
    
    * Exploration by value proposition impact:
      * **Community Mega-Events**<br>
-       This cruise industry response targets large-scale convention events, focusing on the collective belonging to community, rather than the individual pursuit of leisure
+       This cruise industry response targets large-scale convention events, focusing on the collective belonging to community, rather than the individual pursuit of leisure.
        <p align="center">
          <img src="/img/11_Four_Actions_Framework_02_Community_Mega_Events.png" width="600" title="Four Actions Framework 02 Community Mega-Events">
        </p>
    
    * Exploration by cost impact:
      * **Maritime Digital Nomads**<br>
-       This cruise industry response leases long-term residences and collaborative office spaces to remote workers, known as digital nomads
+       This cruise industry response leases long-term residences and collaborative office spaces to remote workers, known as digital nomads.
        <p align="center">
          <img src="/img/12_Four_Actions_Framework_03_Maritime_Digital_Nomads.png" width="600" title="Four Actions Framework 03 Maritime Digital Nomads">
        </p>
